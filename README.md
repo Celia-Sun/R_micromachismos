@@ -20,7 +20,7 @@ Primero se crearon los grupos y subgrupos necesarios:
 * Segundo grupo: No
 
 Posteriormente se limpió el texto (convertir texti a minúsculas, eliminar puntuación, eliminar números y eliminar palabras vacías), se creó una matriz de palabras y se eliminaron 
-palabras no relevantes. Por último, se crea la nube de palabra:
+palabras no relevantes. Por último, se crea la nube de palabra.
 
 Ejemplo:
 
