@@ -24,6 +24,7 @@ palabras no relevantes. Por último, se crea la nube de palabra:
 
 Ejemplo:
 
-Figura 1. 
+**Figura 1.**
+
 Personas entre 18-30 años que hayan dicho "Sí".
 ![image](https://github.com/user-attachments/assets/f2aa95aa-deab-4548-940d-6c244c119d0b)
