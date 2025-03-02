@@ -12,12 +12,12 @@ Para ello, apliqué mis conocimientos de R que aprendí en mis prácticas con la
 # Proceso
 Primero se crearon los grupos y subgrupos necesarios:
 1. Según la edad:
-• Primer grupo: edad entre 18 y 30 años
-• Segundo grupo: edad mayores de 50 años
+* Primer grupo: edad entre 18 y 30 años
+* Segundo grupo: edad mayores de 50 años
 
 2. Según la respuesta a la pregunta "¿Detectas algún problema en la forma de relacionarse?"
-• Primer grupo: Sí
-• Segundo grupo: No
+* Primer grupo: Sí
+* Segundo grupo: No
 
 Posteriormente se limpió el texto (convertir texti a minúsculas, eliminar puntuación, eliminar números y eliminar palabras vacías), se creó una matriz de palabras y se eliminaron 
 palabras no relevantes. Por último, se crea la nube de palabra:
